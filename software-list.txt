@@ -1,0 +1,13 @@
+Chocolatey
+7zip
+adobereader
+brave
+git.install
+irfanview
+pdfsam
+powershell-core
+powertoys
+vlc
+zoom
+rustdesk
+bitwarden
